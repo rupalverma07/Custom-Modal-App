@@ -18,7 +18,7 @@
 
 }
 
-.btn{
+.btn, .submit-button{
     background-color: #508ae6;
     color: #fff;
     padding: 10px;

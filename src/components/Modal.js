@@ -45,7 +45,7 @@ const Modal = ({isOpen,setOpen}) => {
           <label>Date of Birth:
           <input type="date" id='dob' name='dob' onChange={handleChange} required />
           </label>
-         <button type="submit" className="btn" style={{margin:"10px auto"}}>Submit</button>
+         <button type="submit" className="submit-button" style={{margin:"10px auto"}}>Submit</button>
         </form>
       </div>
     </div>
